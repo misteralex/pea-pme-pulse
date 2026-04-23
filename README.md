@@ -76,12 +76,12 @@ cd dbt && dbt debug
 # Run Silver models
 dbt run
 
-### 🚀 PEA-PME Project Migration Guide
-* 🚀 **Migration Guide** : [Lien vers le Gist](https://gist.github.com/misteralex/bf2e1854412a8231c4c31303bd8c944c)
-
 # Run tests
 dbt test
 ```
 
 > Each developer uses their own `~/.dbt/profiles.yml` with their own GCP credentials — never commit it.
 > Production runs are orchestrated by Prefect.
+
+### 🚀 PEA-PME Project Migration Guide
+* 🚀 **Migration Guide** : [Lien vers le Gist](https://gist.github.com/misteralex/bf2e1854412a8231c4c31303bd8c944c)
