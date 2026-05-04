@@ -1,4 +1,4 @@
-# pea-pme-pulse
+# PEA PME Pulse
 
 Pipeline de scoring automatisé pour identifier les meilleures opportunités parmi les PME éligibles PEA-PME sur un horizon mid/long term (18+ mois).
 
